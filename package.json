@@ -1,8 +1,12 @@
 {
-  "name": "bankmodern",
+  "name": "hoobank",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+<<<<<<< HEAD
+=======
+  
+>>>>>>> f19ecf9 ( Changes to be committed:)
   "scripts": {
     "dev": "vite",
     "build": "vite build",
